@@ -15,8 +15,7 @@ Contact Me
 Feel free to reach out to me through the following channels:
 
 Email: anasnasirpk@gmail.com
-[Lin](https://www.linkedin.com/in/anexodus/)
-https://www.instagram.com/anexodus/
+
 I'm open to collaboration, feedback, and discussions related to projects, technology, or anything that sparks your interest.
 
 Thank you for visiting my profile, and I hope you find something valuable here!
