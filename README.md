@@ -1,16 +1,19 @@
 # Welcome to My Profile!
 
-I'm Anas Nasir, a Front-End Developer, UI/UX Designer, Python & Java Developer, and Mobile App Developer (Flutter & React). I am passionate about creating innovative solutions and exploring the world of technology. This README serves as an introduction to who I am and what you can expect to find in my profile.
+Hi there, I'm Anas Nasir, a final-year Software Engineering student with a strong foundation in Python and Java, currently exploring Data Science and React Native development. I enjoy building real-world projects that combine programming logic with user-focused design, and I'm always eager to learn new technologies and improve my skills. My focus is on writing clean, maintainable code and creating meaningful solutions through hands-on development.
 
 ## About Me
-- **Education:** Software Engineer undergraduate with a strong foundation in Front-End Development, UI/UX Design, Python & Java Development, and Mobile App Development.
-- **Experience:** Developed and designed interactive web applications and user interfaces. Skilled in creating seamless user experiences with a focus on both functionality and aesthetics. Experienced in developing mobile apps using Flutter and React, and proficient in Python and Java for backend development.
+- **Education:** Software Engineer undergraduate with a strong foundation in Python & Java Development, Front-End Development, UI/UX Design.
+- **Experience:** Developed and designed interactive web applications and user interfaces. Skilled in creating seamless user experiences with a focus on both functionality and aesthetics. Experienced in developing Front-End development, and proficient in Python and Java for backend development.
 
 ## Interests
-- Front-End Development
-- UI/UX Design
+- Data Science & Machine Learning
 - Python & Java Development
-- Mobile App Development (Flutter & React)
+- Front-End Development (HTML, CSS, JavaScript, React)
+- Mobile App Development (React Native)
+- UI/UX Design
+- Learning New Technologies
+- Writing Tech Blogs
 
 ## Contact Me
 Feel free to reach out to me through the following channels:
