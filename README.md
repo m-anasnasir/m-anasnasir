@@ -1,24 +1,20 @@
-# 👋 Hi, I'm Muhammad Anas Nasir  
-
-💻 **Software Engineer | DevOps & Cloud Enthusiast | IoT Innovator**  
+# Hi, I'm Muhammad Anas Nasir  
 
 I am a passionate Software Engineer with advanced programming expertise in **Python** and **Java**, along with hands-on experience in **C++**, **React**, and **React Native**.  
 With a strong foundation in **Agile methodologies, System Design, and Project Management**, I aim to blend technical and organizational skills to deliver impactful solutions.  
 
 Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expertise in automation, CI/CD pipelines, and cloud platforms such as **AWS, Azure, and Google Cloud**.  
 
----
 
-## 🚀 About Me  
+## About Me  
 - 🎓 Final Year Software Engineering Student at **NED University of Engineering and Technology**  
 - 🌐 Building scalable and reliable solutions with **AWS, Docker, CI/CD**  
 - 🔗 Exploring IoT-based systems with **ESP32, MicroPython, and AWS integration**  
 - 📊 Strong background in **Project Management & Agile practices**  
 - 🔍 Aspiring **DevOps/Cloud Engineer**  
 
----
 
-## 🛠️ Skills & Technologies  
+## 🛠Skills & Technologies  
 
 **Programming Languages**  
 `Python` | `Java` | `C++` | `JavaScript`  
@@ -39,9 +35,8 @@ Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expert
 **Project Management**  
 `Agile` | `Scrum` | `System Design` | `SQA` | `Team Leadership`  
 
----
 
-## 📌 Featured Projects  
+## Featured Projects  
 
 ### 🔋 Real-Time UPS Monitoring (MERN + IoT + AWS)  
 - Built a mobile app with **React** for real-time UPS monitoring.  
@@ -54,27 +49,23 @@ Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expert
 - Built a **React Native** app for user registration, voice enrollment, and live transcript viewing.  
 - Generated **AI-powered meeting summaries** with GPT-4.  
 
----
 
-## 📚 Certifications  
+## Certifications  
 - 🎓 Project Management Specialization – *Johns Hopkins University*  
 - 🎓 Software Design & Project Management – *HKUST*  
 - 🎓 PMI-ACP Agile Practitioner Prep – *PMI*  
 - 🎓 Python Data Structures – *University of Michigan*  
 - 🎓 Crash Course on Python – *Google*  
 
----
-
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=m-anasnasir&show_icons=true&theme=tokyonight" alt="Anas's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-anasnasir&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>  
 
----
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 🌐 [Portfolio](https://anasnasir.me)  
 💼 [LinkedIn](https://linkedin.com/in/m-anasnasir)  
@@ -82,6 +73,4 @@ Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expert
 📝 [Medium](https://m-anasnasir.medium.com)  
 ✉️ anasnasirpk@gmail.com  
 
----
-
-⚡ *“My goal is to leverage my blend of technical and management expertise to grow into a DevOps/Cloud Engineer role and contribute to impactful projects in the tech industry.”*  
+*“My goal is to leverage my blend of technical and management expertise to grow into a DevOps/Cloud Engineer role and contribute to impactful projects in the tech industry.”*  
