@@ -7,11 +7,11 @@ Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expert
 
 
 ## About Me  
-- 🎓 Final Year Software Engineering Student at **NED University of Engineering and Technology**  
-- 🌐 Building scalable and reliable solutions with **AWS, Docker, CI/CD**  
-- 🔗 Exploring IoT-based systems with **ESP32, MicroPython, and AWS integration**  
-- 📊 Strong background in **Project Management & Agile practices**  
-- 🔍 Aspiring **DevOps/Cloud Engineer**  
+- Completed Bachelor Degree in Software Engineering from **NED University of Engineering and Technology**  
+- Building scalable and reliable solutions with **AWS, Docker, CI/CD**  
+- Exploring IoT-based systems with **ESP32, MicroPython, and AWS integration**  
+- Strong background in **Project Management & Agile practices**  
+- Aspiring **DevOps/Cloud Engineer**  
 
 
 ## 🛠Skills & Technologies  
@@ -72,5 +72,3 @@ Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expert
 📂 [GitHub](https://github.com/m-anasnasir)  
 📝 [Medium](https://m-anasnasir.medium.com)  
 ✉️ anasnasirpk@gmail.com  
-
-*“My goal is to leverage my blend of technical and management expertise to grow into a DevOps/Cloud Engineer role and contribute to impactful projects in the tech industry.”*  
