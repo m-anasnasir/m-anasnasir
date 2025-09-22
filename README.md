@@ -3,28 +3,27 @@
 I am a passionate Software Engineer with advanced programming expertise in **Python** and **Java**, along with hands-on experience in **C++**, **React**, and **React Native**.  
 With a strong foundation in **Agile methodologies, System Design, and Project Management**, I aim to blend technical and organizational skills to deliver impactful solutions.  
 
-Currently, I’m focusing on **DevOps and Cloud Computing**, enhancing my expertise in automation, CI/CD pipelines, and cloud platforms such as **AWS, Azure, and Google Cloud**.  
+Currently, I’m focusing on **Data Analytics**, enhancing my expertise in **data wrangling, visualization, and statistical analysis** using tools such as **Python, SQL, and Excel**, while exploring libraries like **Pandas, NumPy, and Matplotlib**.  
 
 
 ## About Me  
 - Completed Bachelor Degree in Software Engineering from **NED University of Engineering and Technology**  
-- Building scalable and reliable solutions with **AWS, Docker, CI/CD**  
-- Exploring IoT-based systems with **ESP32, MicroPython, and AWS integration**  
-- Strong background in **Project Management & Agile practices**  
-- Aspiring **DevOps/Cloud Engineer**  
+- Skilled in **data cleaning, transformation, and visualization**  
+- Using **Python (Pandas, NumPy, Matplotlib, Seaborn)** for analytics  
+- Working with **SQL & Excel** for database queries and reporting  
+- Aspiring **Data Analyst**  
 
 
 ## 🛠Skills & Technologies  
+
+**Data Analytics & Visualization**  
+`Python (Pandas, NumPy, Matplotlib, Seaborn)` | `SQL` | `Excel`  
 
 **Programming Languages**  
 `Python` | `Java` | `C++` | `JavaScript`  
 
 **Web & Mobile Development**  
 `HTML` | `CSS` | `React` | `React Native`  
-
-**Cloud & DevOps**  
-`AWS (S3, IAM, Lambda)` | `Azure` | `Google Cloud`  
-`CI/CD Pipelines` | `Docker` | `Git`  
 
 **Databases**  
 `MongoDB` | `MySQL`  
