@@ -33,20 +33,7 @@ Currently, I’m focusing on **Data Analytics**, enhancing my expertise in **dat
 
 **Project Management**  
 `Agile` | `Scrum` | `System Design` | `SQA` | `Team Leadership`  
-
-
-## Featured Projects  
-
-### 🔋 Real-Time UPS Monitoring (MERN + IoT + AWS)  
-- Built a mobile app with **React** for real-time UPS monitoring.  
-- Developed REST APIs with **Node.js/Express** and stored data in **MongoDB**.  
-- Integrated **ESP32** with **AWS** for secure cloud data handling.  
-
-### 🎤 IoT-Based Speech-to-Text Device (Final Year Project)  
-- Designed an IoT device using **ESP32 + I2S microphone** for real-time meeting transcription.  
-- Uploaded audio to **AWS S3** and processed with **Python + Whisper API + Pyannote**.  
-- Built a **React Native** app for user registration, voice enrollment, and live transcript viewing.  
-- Generated **AI-powered meeting summaries** with GPT-4.  
+  
 
 
 ## Certifications  
