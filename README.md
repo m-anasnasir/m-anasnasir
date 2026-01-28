@@ -1,8 +1,6 @@
 # Hi, I'm Muhammad Anas Nasir  
 
-Software Engineer specializing in IoT & Embedded Systems, building intelligent hardware-to-cloud solutions with Python and Full-Stack technologies.
-
-I bridge the gap between physical hardware and cloud-based intelligence. My expertise lies in architecting end-to-end ecosystems—from capturing raw sensor data on ESP32 devices to visualizing real-time telemetry on Next.js dashboards.
+Software Engineer specializing in IoT & Embedded Systems, building intelligent hardware-to-cloud solutions with Python and Full-Stack technologies. I bridge the gap between physical hardware and cloud-based intelligence. My expertise lies in architecting end-to-end ecosystems from capturing raw sensor data on ESP32 devices to visualizing real-time telemetry on Next.js dashboards.
 
 
 ## About Me  
