@@ -1,6 +1,8 @@
 # Hi, I'm Muhammad Anas Nasir  
 
-Software Engineer with advanced programming expertise in **Python** and **Java**, along with hands-on experience in **C++**, **React**, and **React Native**. With a strong foundation in **Agile methodologies**, **System Design**, and **Project Management**, I aim to blend technical and organizational skills to deliver impactful solutions
+Software Engineer specializing in IoT & Embedded Systems, building intelligent hardware-to-cloud solutions with Python and Full-Stack technologies.
+
+I bridge the gap between physical hardware and cloud-based intelligence. My expertise lies in architecting end-to-end ecosystems—from capturing raw sensor data on ESP32 devices to visualizing real-time telemetry on Next.js dashboards.
 
 
 ## About Me  
