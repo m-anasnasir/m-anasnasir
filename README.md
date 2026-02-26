@@ -5,7 +5,7 @@
 </div>
 
 <div align="justify">
-Software Engineer with 1+ years of professional experience in full-stack development and intelligent system design, complemented by strong academic foundations in Artificial Intelligence, Machine Learning, and Data Science. Experienced in building end-to-end data-driven systems from data acquisition and preprocessing to model integration and scalable cloud deployment. Demonstrated research interest in NLP, LLM integration, and real-time data pipelines. Seeking a Master's degree to deepen theoretical understanding of machine learning algorithms, statistical modeling, and large-scale data systems, to contribute to research-driven innovation in intelligent technologies.
+Software Engineer with 2+ years of professional experience in full-stack development and intelligent system design, complemented by strong academic foundations in Artificial Intelligence, Machine Learning, and Data Science. Experienced in building end-to-end data-driven systems from data acquisition and preprocessing to model integration and scalable cloud deployment. Demonstrated research interest in NLP, LLM integration, and real-time data pipelines. Seeking a Master's degree to deepen theoretical understanding of machine learning algorithms, statistical modeling, and large-scale data systems, to contribute to research-driven innovation in intelligent technologies.
 </div>
 
 
