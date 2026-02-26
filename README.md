@@ -10,10 +10,10 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 
 
 ## About Me  
-- Software Engineering Graduate from NED University of Engineering and Technology.
-- IoT Architect: Engineering real-time data pipelines using MQTT, ESP32, and Supabase Realtime.
-- AI Integration: Building "smart" hardware with Whisper API, Pyannote, and Agentic AI workflows.
+- Software Engineering Graduate from NED University of Engineering and Technology, Karachi, Pakistan.
 - Full-Stack Engineer: Developing scalable industrial applications with Next.js 14, TypeScript, and PostgreSQL.
+- AI Integration: Building "smart" hardware with Whisper API, Pyannote, and Agentic AI workflows.
+- IoT Architect: Engineering real-time data pipelines using MQTT, ESP32, and Supabase Realtime.
 - Current Focus: Researching Autonomous Agents and Industry 4.0 predictive maintenance systems.
 
 
@@ -26,7 +26,7 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 `ESP32` | `MicroPython` | `MQTT` | `I2S/ADC Sensors` | `Hardware-to-Cloud`
 
 **Full-Stack & Cloud Architecture**  
-`Next.js 14` | `React` | `Supabase Realtime` | `AWS (S3/Lambda)` | `PostgreSQL` | `Prisma`\  
+`Next.js 14` | `React` | `Supabase Realtime` | `AWS (S3/Lambda)` | `PostgreSQL` | `Prisma`
 
 **AI & Intelligent Automation**  
 `Whisper API` | `Pyannote` | `LLM Orchestration` | `RAG Pipelines` | `Python Automation`
