@@ -45,16 +45,16 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 
 ## GitHub Stats  
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=m-anasnasir&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=m-anasnasir&theme=blueberry&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anasnasir&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=m-anasnasir&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&cache_bust=true)
+![](https://nirzak-streak-stats.vercel.app/?user=m-anasnasir&theme=blueberry&hide_border=true&cache_bust=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-anasnasir&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=true)
 
 </div>
 
 
 ## GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-anasnasir&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Anas's%20GitHub%20Activity)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-anasnasir&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Anas's%20GitHub%20Activity&cache_bust=true)
 
 
 ## Connect with Me  
