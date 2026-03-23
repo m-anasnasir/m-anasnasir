@@ -7,7 +7,23 @@
 <div align="justify">
 Software Engineer with 2+ years of professional experience in full-stack development and intelligent system design, complemented by strong academic foundations in Artificial Intelligence, Machine Learning, and Data Science. Experienced in building end-to-end data-driven systems from data acquisition and preprocessing to model integration and scalable cloud deployment. Demonstrated research interest in NLP, LLM integration, and real-time data pipelines. Seeking a Master's degree to deepen theoretical understanding of machine learning algorithms, statistical modeling, and large-scale data systems, to contribute to research-driven innovation in intelligent technologies.
 </div>
-  
+
+## Skills & Technologies    
+
+**Programming Languages**  
+`Python` | `C++` | `TypeScript` | `JavaScript` | `C#`
+
+**IoT & Embedded Systems (Core)**  
+`ESP32` | `MicroPython` | `MQTT` | `I2S/ADC Sensors` | `Hardware-to-Cloud`
+
+**Full-Stack & Cloud Architecture**  
+`Next.js 14` | `React` | `Supabase Realtime` | `AWS (S3/Lambda)` | `PostgreSQL` | `Prisma`
+
+**AI & Intelligent Automation**  
+`Whisper API` | `Pyannote` | `LLM Orchestration` | `RAG Pipelines` | `Python Automation`
+
+**Engineering & Tools**  
+`Docker` | `Git` | `System Design` | `Agile (Scrum)` | `Postman`
 
 ## Tech Stacks 
 <div align="justify">
@@ -40,10 +56,6 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anexodus) 
 
 </div>
-
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:6a11cb,100:2575fc" width="100%" />
-
 </div>
