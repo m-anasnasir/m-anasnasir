@@ -42,7 +42,7 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 
 </div>
 
-
+<!--
 ## GitHub Stats  
 <div align="center">
 
@@ -53,7 +53,7 @@ Software Engineer with 2+ years of professional experience in full-stack develop
 
 ## GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-anasnasir&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=Anas's%20GitHub%20Activity&cache_bust=true)
-
+-->
 
 ## Connect with Me  
 <div align="center">
