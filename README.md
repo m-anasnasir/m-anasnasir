@@ -8,14 +8,14 @@
 Software Engineer with 2+ years of professional experience in full-stack development and intelligent system design, complemented by strong academic foundations in Artificial Intelligence, Machine Learning, and Data Science. Experienced in building end-to-end data-driven systems from data acquisition and preprocessing to model integration and scalable cloud deployment. Demonstrated research interest in NLP, LLM integration, and real-time data pipelines. Seeking a Master's degree to deepen theoretical understanding of machine learning algorithms, statistical modeling, and large-scale data systems, to contribute to research-driven innovation in intelligent technologies.
 </div>
 
-
+<!--
 ## About Me  
 - Software Engineering Graduate from NED University of Engineering and Technology, Karachi, Pakistan.
 - Full-Stack Engineer: Developing scalable industrial applications with Next.js 14, TypeScript, and PostgreSQL.
 - AI Integration: Building "smart" hardware with Whisper API, Pyannote, and Agentic AI workflows.
 - IoT Architect: Engineering real-time data pipelines using MQTT, ESP32, and Supabase Realtime.
 - Current Focus: Researching Autonomous Agents and Industry 4.0 predictive maintenance systems.
-
+-->
 
 ## Skills & Technologies    
 
